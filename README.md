@@ -1,2 +1,2 @@
 # FirstSpringProject
-CRUS project based on Spring
+CRUD project based on Spring
